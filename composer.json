@@ -6,6 +6,7 @@
     "require" : {
     },
    "autoload": {
-        "psr-4": { "Payonyx\\CoreThemeBundle\\" : ""        }
-    }
+        "psr-0": { "Payonyx\\CoreThemeBundle" : "" }
+    }, 
+    "target-dir": "Payonyx/CoreThemeBundle",
 }
