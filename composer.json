@@ -1,11 +1,11 @@
 
 {
     "minimum-stability": "dev",
-    "name":"dfrasee/payonyx-admin-theme-bundle",
+    "name":"dfrasee/payonyx-core-theme-bundle",
     "version": "1.0.0",  
     "require" : {
     },
    "autoload": {
-        "psr-4": { "Payonyx\\FrontendThemeBundle\\" : ""        }
+        "psr-4": { "Payonyx\\CoreThemeBundle\\" : ""        }
     }
 }
