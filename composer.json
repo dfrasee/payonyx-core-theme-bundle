@@ -8,5 +8,5 @@
    "autoload": {
         "psr-0": { "Payonyx\\CoreThemeBundle" : "" }
     }, 
-    "target-dir": "Payonyx/CoreThemeBundle",
+    "target-dir": "Payonyx/CoreThemeBundle"
 }
